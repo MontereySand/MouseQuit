@@ -1,6 +1,6 @@
 # Inspiration
 
-I've tried a lot of mac apps and certain features of some have stood out to me, I found this functionality in BTT and I wanted to make it it's own app.
+I've tried a lot of mac apps and certain features of some have stood out to me, I found this functionality in BTT and I wanted to make it a seperate app.
 
 # Summary
 
